@@ -51,7 +51,7 @@ app.use((req, res) => {
 
 const connectedServer = httpServer.listen(config.PORT, () => {
   const port = connectedServer.address().port;
-  console.log(`Server running at en${port}`);
+  console.log(`Server running at ${port}`);
   
 });
 connectedServer.on("error", (error) =>
