@@ -1,4 +1,4 @@
-FROM v16.15.1
+FROM node:v16.15.1
 
 RUN mkdir -p /src/app
 WORKDIR /src/app
