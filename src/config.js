@@ -5,7 +5,6 @@ dotenv.config();
 
 export default {
   PORT: process.env.PORT,
-  URL_BASE: process.env.URL_BASE,
   JWT_SECRET: process.env.JWT_SECRET ,
   mongodb: {
     cnxStr: process.env.MONGODB_URL ,
