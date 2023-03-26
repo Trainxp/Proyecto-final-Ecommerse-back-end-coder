@@ -1,0 +1,10 @@
+
+[2023-03-26T14:04:13.887] [WARN] default - GET /images/1679849962595.jpeg
+[2023-03-26T14:04:13.893] [WARN] default - GET /images/1679846731119.jpeg
+[2023-03-26T14:04:22.744] [WARN] default - GET /images/1679849962595.jpeg
+[2023-03-26T14:04:22.746] [WARN] default - GET /images/1679846731119.jpeg
+[2023-03-26T14:04:39.562] [WARN] default - GET /images/1679846731119.jpeg
+[2023-03-26T14:04:39.565] [WARN] default - GET /images/1679849962595.jpeg
+[2023-03-26T14:04:53.620] [WARN] default - GET /images/1679846731119.jpeg
+[2023-03-26T14:05:22.268] [WARN] default - GET /js/services/socket.io.js.map
+[2023-03-26T16:01:12.961] [WARN] default - GET /public/images/icoo.ico
