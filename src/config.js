@@ -19,4 +19,3 @@ export default {
   },
   
 };
-console.log("conectado mongo")
