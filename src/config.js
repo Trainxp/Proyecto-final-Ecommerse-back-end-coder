@@ -4,11 +4,11 @@ dotenv.config();
 
 
 export default {
-  PORT: process.env.PORT,// ||8080,
+  PORT: process.env.PORT,
   URL_BASE: process.env.URL_BASE,
-  JWT_SECRET: process.env.JWT_SECRET ,// //"gatito",
+  JWT_SECRET: process.env.JWT_SECRET ,
   mongodb: {
-    cnxStr: process.env.MONGODB_URL ,//||"mongodb+srv://Train:Patagonia2023@cluster0.ilcaprq.mongodb.net/final",
+    cnxStr: process.env.MONGODB_URL ,
     
     options: {
       useNewUrlParser: true,
